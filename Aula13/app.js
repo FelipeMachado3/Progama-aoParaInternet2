@@ -77,8 +77,7 @@ e.preventDefault();
 const logradouro = document.querySelector('#logradouro').value;
 const inputNumero = document.querySelector('#inputNumero');
 if (logradouro === '') {
-mostrarErro('#inputCEP', '#erroCEP', 'Busque um CEP valido
-primeiro');
+mostrarErro('#inputCEP', '#erroCEP', 'Busque um CEP validoprimeiro');
 inputCEP.focus();
 return;
 }
