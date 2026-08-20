@@ -1,3 +1,4 @@
+package Exercicio02;
 class ContaBancaria {
 protected double saldo;
 public void depositar(double valor) {

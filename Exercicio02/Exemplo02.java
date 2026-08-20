@@ -1,3 +1,4 @@
+package Exercicio02;
 // exceção customizada: criando uma classe de exceção própria
 class SaldoInsuficienteException extends RuntimeException {
         // extends RuntimeException => exceção unchecked (compilador não obriga tratar)

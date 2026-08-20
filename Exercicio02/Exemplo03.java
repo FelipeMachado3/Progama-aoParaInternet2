@@ -1,3 +1,4 @@
+package Exercicio02;
 class ConexaoSimulada implements AutoCloseable {
 
 public ConexaoSimulada() {
